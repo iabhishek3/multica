@@ -4,12 +4,12 @@ import { RedirectIfAuthenticated } from "@/features/landing/components/redirect-
 
 export const metadata: Metadata = {
   title: {
-    absolute: "Multica — Project Management for Human + Agent Teams",
+    absolute: "Squadly SI — Project Management for Human + Agent Teams",
   },
   description:
     "Source-available platform that turns coding agents into real teammates. Assign tasks, track progress, compound skills.",
   openGraph: {
-    title: "Multica — Project Management for Human + Agent Teams",
+    title: "Squadly SI — Project Management for Human + Agent Teams",
     description:
       "Manage your human + agent workforce in one place.",
     url: "/",
